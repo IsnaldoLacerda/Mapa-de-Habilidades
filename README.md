@@ -114,4 +114,7 @@ Possibilidades:
 ---
 
 ## 🗂 Estrutura do Repositório
+[desafio-mapa-habilidades-dio.pdf](https://github.com/user-attachments/files/24058104/desafio-mapa-habilidades-dio.pdf)
+
+
 
